@@ -17,16 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:uttamkumarmehta83@gmail.com">
-  <img alt="'Gmail" src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=gmail" target="_blank"/>
+  <img alt="'Gmail" src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=gmail" target="blank"/>
 </a>
 <!-- <a href="https://leetcode.com/Animesh2812/">
   <img  alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-grey?style=flat&logo=leetcode" target="_blank"/>
 </a> -->
 <a href="https://www.linkedin.com/in/uttam-mehta-47364923b/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=linkedin" target="_blank" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=linkedin" target="blank" />
 </a>  
 <a href="https://lucent-pavlova-724324.netlify.app/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=Portfolio" />
+  <img alt="Portfolio" src="https://www.freecodecamp.org/news/content/images/2022/03/portfoliojs.png" target="blank"/>
 </a> 
 <!-- <a href="https://drive.google.com/file/d/1p3pkDTMXWei5U1YrWQf7YIYDtcy7upil/view?usp=sharing">
   <img alt="Resume" src="https://img.shields.io/badge/-Resume-grey?style=flat&logo=Resume" />
