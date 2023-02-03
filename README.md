@@ -42,7 +42,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=UttamMehta&show_icons=true&locale=en&theme=dark" alt="UttamMehta"  height="139" /></p> 
      <p align="center" style="margin-top:20px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UttamMehta&show_icons=true&locale=en&theme=dark"alt="uttamgithubstate" /></p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UttamMehta&" alt="UttamMehta" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UttamMehta&heme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="UttamMehta" color="red" /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UttamMehta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
