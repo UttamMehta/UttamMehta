@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:uttamkumarmehta83@gmail.com">
-  <img alt="'Gmail" src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=gmail" />
+  <img alt="'Gmail" src="https://img.shields.io/badge/-Gmail-grey?style=flat&logo=gmail" target="_blank"/>
 </a>
 <!-- <a href="https://leetcode.com/Animesh2812/">
-  <img  alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-grey?style=flat&logo=leetcode" />
+  <img  alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-grey?style=flat&logo=leetcode" target="_blank"/>
 </a> -->
 <a href="https://www.linkedin.com/in/uttam-mehta-47364923b/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=linkedin" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=linkedin" target="_blank" />
 </a>  
 <a href="https://lucent-pavlova-724324.netlify.app/">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=Portfolio" />
