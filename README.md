@@ -26,11 +26,11 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=linkedin" />
 </a>  
 <a href="https://lucent-pavlova-724324.netlify.app/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=portfolio" />
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=Portfolio" />
 </a> 
-<a href="https://drive.google.com/file/d/1p3pkDTMXWei5U1YrWQf7YIYDtcy7upil/view?usp=sharing">
-  <img alt="Resume" src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=portfolio" />
-</a>
+<!-- <a href="https://drive.google.com/file/d/1p3pkDTMXWei5U1YrWQf7YIYDtcy7upil/view?usp=sharing">
+  <img alt="Resume" src="https://img.shields.io/badge/-Resume-grey?style=flat&logo=Resume" />
+</a> -->
 
 
 # 💻 Tech Stack:
