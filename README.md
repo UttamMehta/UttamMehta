@@ -38,10 +38,10 @@
 
 
 <h2><i>My GitHub Stats</i></h2>
-<p align="center">
+<!-- <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=UttamMehta&show_icons=true&locale=en&theme=dark" alt="UttamMehta"  height="139" /></p> 
      <p align="center" style="margin-top:20px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UttamMehta&show_icons=true&locale=en&theme=dark"alt="uttamgithubstate" /></p>
-
+ -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=UttamMehta&theme=dark" alt=""/></p>
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UttamMehta&theme=vue" alt="UttamMehta Scorecard" color="red" /></p>
 
