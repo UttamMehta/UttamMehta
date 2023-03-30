@@ -40,7 +40,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=UttamMehta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamMehta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)****
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UttamMehta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=UttamMehta&show_icons=true&locale=en&theme=dark" alt="UttamMehta"  height="139" /></p> 
      <p align="center" style="margin-top:20px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UttamMehta&show_icons=true&locale=en&theme=dark"alt="uttamgithubstate" /></p>
