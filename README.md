@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UttamMehta&label=Profile%20views&color=0e75b6&style=flat" alt="UttamMehta" /> </p>
 
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently working as full stack web developer at **Digital Darwin**
 
 - 💬 Ask me about **JavaScript,React,Redux,Java,Nodejs,Express,MongoDB**
 
